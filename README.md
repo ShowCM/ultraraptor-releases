@@ -1,3 +1,5 @@
+<img width="4065" height="871" alt="Ultraraptor-banner" src="https://github.com/user-attachments/assets/04c7cb37-7968-4d13-a2ed-9afd399c4345" />
+
 # Ultraraptor
 
 **A desktop workspace for AI-assisted software development.**
