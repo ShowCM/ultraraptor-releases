@@ -12,11 +12,11 @@ Work across multiple projects, keep independent terminal sessions organized, and
 
 ## Download
 
-**Latest beta: v0.1.0-beta.1**
+### [Download Ultraraptor for macOS](https://github.com/ShowCM/ultraraptor-releases/releases/latest/download/Ultraraptor.dmg)
 
-Download Ultraraptor from the [GitHub Releases](../../releases) page once the first beta is published.
+**Free V1 Beta · Apple Silicon (M1 or newer) · macOS 15.0+**
 
-Ultraraptor Free V1 is currently available for Apple Silicon Macs running macOS 15.0 or later.
+[View release notes](https://github.com/ShowCM/ultraraptor-releases/releases/latest)
 
 ## Installation
 
