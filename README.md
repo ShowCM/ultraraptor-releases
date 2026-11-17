@@ -8,13 +8,11 @@ Ultraraptor brings projects, terminal sessions, Git Worktrees, files, and develo
 
 Work across multiple projects, keep independent terminal sessions organized, and manage your development workflow without juggling separate terminal windows.
 
-**Free V1 Beta · macOS · Apple Silicon**
-
 ## Download
 
 ### [Download Ultraraptor for macOS](https://github.com/ShowCM/ultraraptor-releases/releases/latest/download/Ultraraptor.dmg)
 
-**Free V1 Beta · Apple Silicon (M1 or newer) · macOS 15.0+**
+**Apple Silicon (M1 or newer) macOS 15.0+**
 
 [View release notes](https://github.com/ShowCM/ultraraptor-releases/releases/latest)
 
